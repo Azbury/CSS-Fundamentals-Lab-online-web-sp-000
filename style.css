@@ -30,6 +30,7 @@ section#featured-property p {
 
 section#details {
   display: block;
+  background-color: green;
 }
 
 section#details div {
