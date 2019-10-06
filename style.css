@@ -21,7 +21,7 @@ nav a {
   background-color: red;
 }
 
-section#featured-property {
+section#featured-property p {
   text-align: center;
   font-size: 10px
 }
