@@ -35,4 +35,6 @@ section#details {
 section#details div {
   float: left;
   background-color: green;
+  display: flex;
+  justify-content: space-between;
 }
