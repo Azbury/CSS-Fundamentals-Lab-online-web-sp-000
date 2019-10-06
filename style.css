@@ -33,14 +33,5 @@ section#details div {
   display: block;
   float: left;
   background-color: green;
-}
-
-section#details div.first-r {
-  left: 0%;
-  position: relative;;
-}
-
-section#details div.second-r {
-  left: 0%;
-  position: relative;;
+  width: 33%;
 }
